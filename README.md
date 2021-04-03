@@ -1,2 +1,2 @@
 # pymaceuticals-with-matplotlib
-Assignment associated with class. Uses python, pandas, numpy, matplotlib, scipy, and jupyter notebooks,
+Assignment associated with class. Uses python, pandas, matplotlib, scipy, and jupyter notebooks,
