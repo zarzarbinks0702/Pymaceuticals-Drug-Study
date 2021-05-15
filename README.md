@@ -1,4 +1,4 @@
-# pymaceuticals-with-matplotlib
+# Pymaceuticals-Drug-Study
 Assignment associated with class. Uses Python, Pandas, Matplotlib.Pyplot, SciPy, and Jupyter Notebooks. 4/10/2021.
 
 ------------------------------------------
